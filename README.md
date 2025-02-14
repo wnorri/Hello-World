@@ -7,7 +7,7 @@
 - [ADDITIONAL DOCUMENTATION](#Additional-Documentation)
 - [VERSIONING](#Versioning)
 
-  ##Project Title
+##Project Title
   
   *Hello World*
   
