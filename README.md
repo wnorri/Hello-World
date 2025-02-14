@@ -1,5 +1,5 @@
 # Hello-World
-##Table of contents
+## Table of contents
 - [PROJECT TITLE](#Project-Title)
 - [DESCRIPTION](#Description)
 - [HOW TO RUN PROGRAM](#HOW-TO-RUN-PROGRAM)
@@ -7,7 +7,7 @@
 - [ADDITIONAL DOCUMENTATION](#Additional-Documentation)
 - [VERSIONING](#Versioning)
 
-##Project Title
+## Project Title
   
   *Hello World*
   
