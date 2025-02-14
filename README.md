@@ -2,4 +2,5 @@
 First repository
 ## First Heading
 ### Second Heading
-**Let's try bold text
+**Let's try bold text**
+*italics*
